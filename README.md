@@ -8,6 +8,7 @@ Ver.0.0.1: Add python script and shell script
 
 This script converts PNG format files in the directory where the script file is executed to EPS format. 
 
+---------------------------------
 ### enviroment ###
 
 - OS: windows 10 pro
@@ -30,5 +31,4 @@ python3 png2eps.py
 ```
 ```bash:
 sh png2eps.sh
-
 ```
