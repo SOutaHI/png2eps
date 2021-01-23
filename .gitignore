@@ -130,4 +130,4 @@ dmypy.json
 
 
 # eps
-.eps
+/img/*.eps
